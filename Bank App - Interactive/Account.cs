@@ -6,5 +6,10 @@ public class Account
     private int _accountNumber;
     private double _annualIntrRate;
     private decimal _balance;
+
+    public Account(int accountNumber, string accountHolderName)
+    {
+        
+    }
     
 }
