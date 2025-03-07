@@ -6,4 +6,14 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private void OnNewUser(object? sender, EventArgs e)
+	{
+		throw new NotImplementedException();
+	}
+
+	private void OnExistingUser(object? sender, EventArgs e)
+	{
+		throw new NotImplementedException();
+	}
 }
